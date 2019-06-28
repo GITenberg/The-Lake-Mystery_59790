@@ -1,0 +1,24 @@
+_repo: The-Lake-Mystery_59790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dana, Marvin
+    alias: Dana, Marvin Hill
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '462'
+    url: http://www.gutenberg.org/2009/agents/462
+    wikipedia: https://en.wikipedia.org/wiki/Marvin_Dana
+description: ''
+gutenberg_issued: '2019-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Lake Mystery
+url: http://www.gutenberg.org/ebooks/59790
